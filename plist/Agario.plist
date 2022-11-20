@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://143.110.216.133/ipas/Deezer++_8.11.0.ipa</string>
+					<string>http://5.161.116.255/ipas/agariohack.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Kasar.Deezer</string>
+				<string>com.Kasar.Agario</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Deezer</string>
+				<string>Agario++</string>
 			</dict>
 		</dict>
 	</array>
