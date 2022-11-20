@@ -1,7 +1,7 @@
 body {
 font-family: helvetica;
-background-image: linear-gradient(to right, #be93c5, #7bc6cc);
-background-color: #be93c5;
+background-image: linear-gradient(to right, #213040, #213040);
+background-color: #213040;
 -webkit-touch-callout: none;
 user-select: none;
 -webkit-user-select: none;
@@ -132,13 +132,13 @@ border-radius: 20px;
 margin: 10px;
 }
 .card-devs h2 {
-color: #1C0B36;
+color: #213040;
 font-weight: 800;
 text-align: justify;
 margin-left: 20px;
 }
 .card-devs p {
-color: #1C0B36;
+color: #213040;
 font-weight: 400;
 text-align: justify;
 margin-left: 20px;
@@ -156,7 +156,7 @@ width: 120px;
 padding-top: 10px;
 padding-bottom: 10px;
 border-radius: 10px;
-background-color: #1C0B36;
+background-color: #213040;
 margin: 10px;
 }
 .apps {
