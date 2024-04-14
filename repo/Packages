@@ -15,18 +15,19 @@ Author: LonestarX
 Name: ShowTouch
 
 Package: lilliana.filzacrack
-Version: 0.0.4
-Architecture: iphoneos-arm
+Version: 0.0.6
+Architecture: iphoneos-arm64
 Maintainer: Lilliana
-Installed-Size: 196
-Depends: firmware (>= 12.2)
-Filename: debs/lilliana.filzacrack_0.0.4_iphoneos-arm.deb
-Size: 28910
-MD5sum: 9c65588710811ad678b74982034f52be
-SHA1: ccd57e197aee3d00ebafc8a26f243c7ae1bc82ec
-SHA256: 879e0da02c9e866ec9833b5959c499d69c8aad6a83f2db5237558120859da545
-Section: Cracks
-Description: Filza and AppsManager activation for free
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
+Size: 21226
+MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+SHA1: aec744001cd888b9c3099415a67366dce26612f2
+SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+Section: Tweaks
+Description: An awesome Jinx tweak!
 Author: Lilliana
-Depiction: Depiction:https://kkkkg.github.io/repo/
-Name: Filza Crack
+Depiction: https://kkkkg.github.io/repo/
+Icon: FilzaCrack.png
+Name: FilzaCrack
