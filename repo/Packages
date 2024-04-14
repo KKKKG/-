@@ -51,3 +51,39 @@ Author: kasar
 Depiction: https://kkkkg.github.io/repo/
 Icon: cpu-x.png
 Name: CPU-x
+
+Package: com.lnx.showtouch
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Kasar
+Installed-Size: 432
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: /debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
+Size: 70828
+MD5sum: 5aa5b7ed1cf33ef19073903b72eeab10
+SHA1: aec744001cd888b9c3199415a67366dce26612f2
+SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+Section: Tweaks
+Description: 15 - 17 
+Author: ShowTouch
+Depiction: https://kkkkg.github.io/repo/
+Icon: ShowTouch.png
+Name: ShowTouch
+
+Package: com.windscribe
+Version: 3.7.7
+Architecture: iphoneos-arm64
+Maintainer: kasar
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/com.windscrpro_2506_iphoneos-arm64.deb
+Size: 21226
+MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+SHA1: aec744001cd888b9c3099415a67366dce26612f2
+SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+Section: Tweaks
+Description: cracked Pro
+Author: kasar
+Depiction: https://kkkkg.github.io/repo/
+Icon: Windscribe.png
+Name: Windscribe
