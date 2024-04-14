@@ -5,7 +5,7 @@ Maintainer: Kasar
 Installed-Size: 432
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: /debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
-Size: 70828
+Size: 70861
 MD5sum: 5aa5b7ed1cf33ef19073903b72eeab10
 SHA1: aec744001cd888b9c3199415a67366dce26612f2
 SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
@@ -23,7 +23,7 @@ Maintainer: Lilliana
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
-Size: 21226
+Size: 21241
 MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
 SHA1: aec744001cd888b9c3099415a67366dce26612f2
 SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
@@ -38,13 +38,13 @@ Package: com.benchu.ARMCPUZ
 Version: 1.6.7
 Architecture: iphoneos-arm64
 Maintainer: kasar
-Installed-Size: 200
+Installed-Size: 201
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/com.cpuxpro_1.6.7_iphoneos-arm64.deb
-Size: 21226
-MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+Size: 21221
+MD5sum: 9D5EC443A7481A5181819054844CD8CB
 SHA1: aec744001cd888b9c3099415a67366dce26612f2
-SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+SHA256: DC708355861029EDB4D21965CC32C2391E953FB27A5F6D702DE100658D27160A
 Section: Tweaks
 Description: cracked 
 Author: kasar
@@ -59,12 +59,12 @@ Maintainer: Kasar
 Installed-Size: 432
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: /debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
-Size: 70828
-MD5sum: 5aa5b7ed1cf33ef19073903b72eeab10
+Size: 70821
+MD5sum: 26B26DAE072BCE9645D7FE80F14244AE
 SHA1: aec744001cd888b9c3199415a67366dce26612f2
-SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+SHA256: 77C07E45B293EEE4D7F8CEAB8BAD04FD0749B26B895BCBEF2B8174E805944D85
 Section: Tweaks
-Description: 15 - 17 
+Description: IOS 15 - 16.6.1 
 Author: ShowTouch
 Depiction: https://kkkkg.github.io/repo/
 Icon: ShowTouch.png
@@ -74,13 +74,13 @@ Package: com.windscribe
 Version: 3.7.7
 Architecture: iphoneos-arm64
 Maintainer: kasar
-Installed-Size: 200
+Installed-Size: 199
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/com.windscrpro_2506_iphoneos-arm64.deb
-Size: 21226
-MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+Size: 21229
+MD5sum: 7BDE710CBD242EFEC6D4730C38330FA8
 SHA1: aec744001cd888b9c3099415a67366dce26612f2
-SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+SHA256: 6304D7F4F4E58F319676AF03AB13EA63F812E7F521D8D327DE65BCE0DF707BC2
 Section: Tweaks
 Description: cracked Pro
 Author: kasar
@@ -92,13 +92,14 @@ Package: com.google.ios.youtube
 Version: 19.14.3
 Architecture: iphoneos-arm64
 Maintainer: kasar
-Installed-Size: 200
+Installed-Size: 208
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/com.ytadsdisablebgiphoneos-arm64.deb
-Size: 21226
-MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+Size: 21218
+MD5sum:
+CD513D6E1F68C61AE3BA9B0B0CE5B94E
 SHA1: aec744001cd888b9c3099415a67366dce26612f2
-SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+SHA256: 38B67AE002781F82732532C2FC0E8B1663193A9C872E24A97F9CBB3BAB23CF4B
 Section: Tweaks
 Description: YT No Ads
 Author: kasar
