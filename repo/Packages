@@ -6,9 +6,9 @@ Installed-Size: 432
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: /debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
 Size: 70861
-MD5sum: 5aa5b7ed1cf33ef19073903b72eeab10
+MD5sum: 5aa5b7ed1cf33ef19073903b72eeab19
 SHA1: aec744001cd888b9c3199415a67366dce26612f2
-SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24d
 Section: Tweaks
 Description: 15 - 17 
 Author: ShowTouch
@@ -92,14 +92,14 @@ Package: com.google.ios.youtube
 Version: 19.14.3
 Architecture: iphoneos-arm64
 Maintainer: kasar
-Installed-Size: 208
+Installed-Size: 4136
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/com.ytadsdisablebgiphoneos-arm64.deb
 Size: 21218
 MD5sum:
 CD513D6E1F68C61AE3BA9B0B0CE5B94E
 SHA1: aec744001cd888b9c3099415a67366dce26612f2
-SHA256: 38B67AE002781F82732532C2FC0E8B1663193A9C872E24A97F9CBB3BAB23CF4B
+SHA256: 38b67ae002781f82732532c2fc0e8b1663193a9c872e24a97f9cbb3bab23cf4b
 Section: Tweaks
 Description: YT No Ads
 Author: kasar
