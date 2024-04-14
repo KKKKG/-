@@ -13,3 +13,20 @@ Section: Tweaks
 Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch
+
+Package: lilliana.filzacrack
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 196
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.4_iphoneos-arm.deb
+Size: 28910
+MD5sum: 9c65588710811ad678b74982034f52be
+SHA1: ccd57e197aee3d00ebafc8a26f243c7ae1bc82ec
+SHA256: 879e0da02c9e866ec9833b5959c499d69c8aad6a83f2db5237558120859da545
+Section: Cracks
+Description: Filza and AppsManager activation for free
+Author: Lilliana
+Depiction: Depiction:https://kkkkg.github.io/repo/
+Name: Filza Crack
