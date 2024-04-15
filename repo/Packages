@@ -16,7 +16,7 @@ Depiction: https://kkkkg.github.io/repo
 Icon: https://media.idownloadblog.com/wp-content/uploads/2023/04/Filza-App-Icon.jpg
 Name: FilzaCrack
 
-Package: com.windscribi
+Package: com.winderscripe
 Version: 3.7.7
 Architecture: iphoneos-arm64
 Maintainer: Paisseon
@@ -27,9 +27,9 @@ Size: 22562
 MD5sum: 3ca187b72b1d528a773a5cdb5d067ccd
 SHA1: 2351b08681a63ca9c012b29adb5bb350430a2f57
 SHA256: ecf9ec0461a8b52250ae70adde69497d9299d4b7bda79ef4495466a8d4b034a0
-Section: Cracks
-Description: Ulysses annual subscription Premium Pro
-Author: KASAR
-Depiction: https://kkkkg.github.io/repo
+Section: Tweaks
+Description: Premium Pro
+Author: Paisseon
+Depiction: https://kkkkg.github.io/repo/
 Icon: https://www.chip.de/ii/5/4/9/3/3/4/1/9/Windscribe-600e9fb33c2252e1.png
 Name: Windscribe VPN
