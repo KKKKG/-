@@ -16,20 +16,19 @@ Depiction: https://kkkkg.github.io/repo
 Icon: https://media.idownloadblog.com/wp-content/uploads/2023/04/Filza-App-Icon.jpg
 Name: FilzaCrack
 
-Package: com.windscrpro
-Version: 2506
+Package: com.windscribe
+Version: 3.7
 Architecture: iphoneos-arm64
-Maintainer: KASAR
-Installed-Size: 368
-Depends: mobilesubstrate, (>= 15.0)
-Filename: debs/com.windscrpro_2506_iphoneos-arm64.deb
-Size: 90184
-MD5sum: 3ca187b72b1d528a773a5cdb5d067ccd
-SHA1: 2351b08681a63ca9c012b29adb5bb350430a2f57
-SHA256: ecf9ec0461a8b52250ae70adde69497d9299d4b7bda79ef4495466a8d4b034a0
+Maintainer: Kasar
+Installed-Size: 628
+Depends: mobilesubstrate
+Filename: ./debs/com.windscrpro_2506_iphoneos-arm64.deb
+Size: 290602
+MD5sum: a2dd6cea0faa8a5f293595dbf2d9174d
+SHA1: ceb5c29df572a85c14c889a5c5d385de572e64ce
+SHA256: 368523c86c11893e628c5f64ddfc2f09f1fd3915ddbe848129ceaad3d115114d
 Section: Tweaks
-Description: Premium Pro
-Author: KASAR
-Depiction: https://kkkkg.github.io/repo/
-Icon: https://www.chip.de/ii/5/4/9/3/3/4/1/9/Windscribe-600e9fb33c2252e1.png
+Description: VIP VPN CRACKED
+Author: Kasar
+Icon: https://media.idownloadblog.com/wp-content/uploads/2023/04/Filza-App-Icon.jpg
 Name: Windscribe VPN
