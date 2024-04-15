@@ -20,7 +20,7 @@ Package: com.winderscripe
 Version: 3.7.7
 Architecture: iphoneos-arm64
 Maintainer: KASAR
-Installed-Size: 136
+Installed-Size: 368
 Depends: mobilesubstrate, (>= 15.0)
 Filename: debs/com.windscrpro_2506_iphoneos-arm64.deb
 Size: 90184
