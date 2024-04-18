@@ -18,3 +18,24 @@ Moderndepiction: crack
 Sileodepiction: https://kkkkg.github.io/repo/
 Someotherentrytocontrol: True
 Tags: compatible_min::ios13.0, compatible_max::ios16.6
+
+Package: lilliana.filzacrack
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR <dkasarkh@gmail.com>
+Filename: .debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
+Size: 17020
+MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+SHA1: aec744001cd888b9c3099415a67366dce26612f2
+SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+Section: Tweaks
+Homepage: https://kkkkg.github.io/repo/
+Description: Filza Apps Manager
+Tag: role::enduser
+Author: KASAR <dkasarkh@gmail.com>
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://media.idownloadblog.com/wp-content/uploads/2023/04/Filza-App-Icon.jpg
+Moderndepiction: crack
+Sileodepiction: https://kkkkg.github.io/repo/
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.6
