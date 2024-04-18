@@ -1,8 +1,8 @@
-Package: lilliana.filzacrack
+Package: Filzacrack
 Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: KASAR <dkasarkh@gmail.com>
-Filename: .debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
+Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
 Size: 17020
 MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
 SHA1: aec744001cd888b9c3099415a67366dce26612f2
@@ -19,11 +19,11 @@ Sileodepiction: https://kkkkg.github.io/repo/
 Someotherentrytocontrol: True
 Tags: compatible_min::ios13.0, compatible_max::ios16.6
 
-Package: lilliana.filzacrack
+Package: Filzacrack
 Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: KASAR <dkasarkh@gmail.com>
-Filename: .debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
+Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
 Size: 17020
 MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
 SHA1: aec744001cd888b9c3099415a67366dce26612f2
