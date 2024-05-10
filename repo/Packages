@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: KASAR
 Installed-Size: 148
 Depends: firmware (>= 15.0), gsc.camera-flash
-Filename: ./debs/RootHide_Manager_arm64.deb
+Filename: /debs/RootHide_Manager_arm64.deb
 Size: 44652
 MD5sum: 834ea449016f0b05b5e979dfebbfc386
 SHA1: 53115f606aa70c541a2e5d115e5295b752dda610
@@ -15,3 +15,22 @@ Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
 Name: RootHide
 Sileodepiction: https://kkkkg.github.io/repo/
+
+Package: com.roothide.manager
+Version: 0.7
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/RootHide_Manager_arm64.deb
+Size: 95982
+MD5sum: 834ea449016f0b05b5e979dfebbfc386
+SHA1: 53115f606aa70c541a2e5d115e5295b752dda610
+SHA256: 7decadcc641a9eed9f8890691f95e09c2ba446e77be50832ff4a4bb68a6c1129
+Section: Tweaks (Piracy)
+Description: RootHide Manager
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://onejailbreak.com/site/assets/files/1732/roothide-logo.350x0-is.jpg
+Name: RootHide
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
