@@ -1,41 +1,17 @@
-Package: Filzacrack
-Version: 4.0
+Package: com.roothide.manager
+Version: 0.7
 Architecture: iphoneos-arm64
-Maintainer: KASAR <dkasarkh@gmail.com>
-Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
-Size: 17020
-MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
-SHA1: aec744001cd888b9c3099415a67366dce26612f2
-SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
-Section: Tweaks
-Homepage: https://kkkkg.github.io/repo/
-Description: Filza Apps Manager
-Tag: role::enduser
-Author: KASAR <dkasarkh@gmail.com>
+Maintainer: KASAR
+Installed-Size: 148
+Depends: firmware (>= 15.0), gsc.camera-flash
+Filename: ./debs/RootHide_Manager_arm64.deb
+Size: 44652
+MD5sum: 834ea449016f0b05b5e979dfebbfc386
+SHA1: 53115f606aa70c541a2e5d115e5295b752dda610
+SHA256: 7decadcc641a9eed9f8890691f95e09c2ba446e77be50832ff4a4bb68a6c1129
+Section: Utilities
+Description: RootHide Manager
+Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
-Icon: https://media.idownloadblog.com/wp-content/uploads/2023/04/Filza-App-Icon.jpg
-Moderndepiction: crack
+Name: RootHide
 Sileodepiction: https://kkkkg.github.io/repo/
-Someotherentrytocontrol: True
-Tags: compatible_min::ios13.0, compatible_max::ios16.6
-
-Package: Filzacrack
-Version: 4.0
-Architecture: iphoneos-arm64
-Maintainer: KASAR <dkasarkh@gmail.com>
-Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
-Size: 17020
-MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
-SHA1: aec744001cd888b9c3099415a67366dce26612f2
-SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
-Section: Tweaks
-Homepage: https://kkkkg.github.io/repo/
-Description: Filza Apps Manager
-Tag: role::enduser
-Author: KASAR <dkasarkh@gmail.com>
-Depiction: https://kkkkg.github.io/repo/
-Icon: https://media.idownloadblog.com/wp-content/uploads/2023/04/Filza-App-Icon.jpg
-Moderndepiction: crack
-Sileodepiction: https://kkkkg.github.io/repo/
-Someotherentrytocontrol: True
-Tags: compatible_min::ios13.0, compatible_max::ios16.6
