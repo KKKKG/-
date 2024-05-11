@@ -23,7 +23,7 @@ Maintainer: KASAR
 Installed-Size: 33618
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
 Filename: debs/RootHide_Manager_arm64.deb
-Size: 95982
+Size: 733168
 MD5sum: 834ea449016f0b05b5e979dfebbfc386
 SHA1: 210e8c74da24c8e3341fe4a7760562a0ad39d7d7
 SHA256: faba1c13e065f8e3810eed815feff027738d1073250bf6ba56e0ec695c63a11a
