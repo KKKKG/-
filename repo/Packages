@@ -80,7 +80,7 @@ Maintainer: KASAR
 Installed-Size: 33618
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
-Size: 375530
+Size: 376176
 MD5sum: 6b0131cd7c032748b4f2ce5860502eae
 SHA1: c50fa6a17dd7b7a12b492313daa3ff4ec9ab1949
 SHA256: 4431620b8fda9a29593ad2184074ce0462f3b8d10bae471892c378bf924876db
@@ -109,4 +109,23 @@ Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
 Icon: https://media.havoc.app/6485a9c9e04866abb700c856?w=1080&q=75
 Name: Snapper3
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.fiona
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: debs/com.kasar.fiona.deb
+Size: 121988
+MD5sum: 1f07bfc50c50bf8595c524a84dbb0b14
+SHA1: d4fa045042198a8b100b122b5c4094aea45b5bcd
+SHA256: bb37b772bc6979f57459ff5b1069dc62fc8c2121a8954595173c7ed0604c0021
+Section: Tweaks
+Description: Floating Tab bar for iOS devices. 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://yandevelop.github.io/assets/icons/fiona/icon.png
+Name: Fiona
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
