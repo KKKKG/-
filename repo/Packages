@@ -58,7 +58,7 @@ Package: com.picsart.studio
 Version: 24.8.3
 Architecture: iphoneos-arm64
 Maintainer: KASAR
-Installed-Size: 404
+Installed-Size: 33618
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
 Filename: debs/com.picsart.kasar_iphoneos-arm64.deb
 Size: 8944
@@ -71,4 +71,24 @@ Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
 Icon: https://play-lh.googleusercontent.com/1JMJ518jogwPeaD0pYn2mBu1cRLD0xRi45wNbtTIRvam1_xx-y3KJOjRAx-W9P4Lf0U
 Name: Picsart Gold
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.showtouch
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/
+com.showtouch_1.0.4-3_iphoneos-arm64.deb
+Size: 376176
+MD5sum: 6b0131cd7c032748b4f2ce5860502eae
+SHA1: c50fa6a17dd7b7a12b492313daa3ff4ec9ab1949
+SHA256: 4431620b8fda9a29593ad2184074ce0462f3b8d10bae471892c378bf924876db
+Section: Tweaks
+Description: Shows where you touch the sc
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://i.pinimg.com/736x/d2/d4/21/d2d421ef1dbdab6df8f1431d96bdf939.jpg
+Name: Showtouch
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
