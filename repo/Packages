@@ -111,21 +111,21 @@ Icon: https://media.havoc.app/6485a9c9e04866abb700c856?w=1080&q=75
 Name: Snapper3
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
 
-Package: com.kasar.fiona
-Version: 1.0.7
+Package: com.bandarhl.bhtiktok
+Version: 2.3
 Architecture: iphoneos-arm64
 Maintainer: KASAR
 Installed-Size: 33618
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
-Filename: debs/com.kasar.fiona.deb
-Size: 121988
-MD5sum: 1f07bfc50c50bf8595c524a84dbb0b14
-SHA1: d4fa045042198a8b100b122b5c4094aea45b5bcd
-SHA256: bb37b772bc6979f57459ff5b1069dc62fc8c2121a8954595173c7ed0604c0021
+Depends: mobilesubstrate
+Filename: debs/BHTikTokPlus.deb
+Size: 481828
+MD5sum: 8c2675f1284b0571e28a70d58ffebdc0
+SHA1: 483e5cffbd2a6dc99b140c4fb5bd9d645bae5d83
+SHA256: 1d264d2d1d88836fa5e1a6a9b49fe02249b13002632fc3963b43acdc178d497c
 Section: Tweaks
-Description: Floating Tab bar for iOS devices. 
+Description: BHTikTok Plus 
 Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
-Icon: https://yandevelop.github.io/assets/icons/fiona/icon.png
-Name: Fiona
+Icon: https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/4a2a1776a08f761c6464f596c0c5e8e6.png
+Name: TikTok BH Plus 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
