@@ -42,7 +42,7 @@ Maintainer: KASAR
 Installed-Size: 33618
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
 Filename: debs/com.windscrpro_2506_iphoneos-arm64.deb
-Size: 65400
+Size: 67016
 MD5sum: be007256bb09ad47c5480294863d9d66
 SHA1: b88ee218bbc79d47114ec3298f7252f0b1662a79
 SHA256: 474e5f1dfd7daa260d398c693889d048dd3fb33aeec0204e91a1484fb622002b
