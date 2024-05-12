@@ -129,3 +129,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/4a2a1776a08f761c6464f596c0c5e8e6.png
 Name: TikTok BH Plus 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.jade
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.kasar.jade_iphoneos-arm64.deb
+Size: 316900
+MD5sum: 9d04a257fdbf8fc0de139510cb44fde8
+SHA1: 0f3c93bee962d0e35d1322cb4e5de76a354532b5
+SHA256: e1cc886114bd8af1f7a67eb11203219915e3da7e4095730e02e03b584ada39c1
+Section: Tweaks
+Description: Jade Crack 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
+Name: Jade 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
