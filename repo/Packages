@@ -59,7 +59,7 @@ Version: 24.8.3
 Architecture: iphoneos-arm64
 Maintainer: KASAR
 Installed-Size: 33618
-Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/com.picsart.kasar_iphoneos-arm64.deb
 Size: 8944
 MD5sum: c93f2497dc830d81b311a8a3909d7960
@@ -77,7 +77,7 @@ Package: com.kasar.showtouch
 Version: 1.0.4-3
 Architecture: iphoneos-arm64
 Maintainer: KASAR
-Installed-Size: 1432
+Installed-Size: 33618
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
 Size: 376176
