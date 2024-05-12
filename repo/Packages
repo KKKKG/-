@@ -43,9 +43,9 @@ Installed-Size: 33618
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
 Filename: debs/com.windscrpro_2506_iphoneos-arm64.deb
 Size: 66976
-MD5sum: be007256bb09ad47c5480294863d9d66
-SHA1: b88ee218bbc79d47114ec3298f7252f0b1662a79
-SHA256: 474e5f1dfd7daa260d398c693889d048dd3fb33aeec0204e91a1484fb622002b
+MD5sum: 3c62b856854566c52fbed60ee25ba1ad
+SHA1: 83c0d5093bbe22df6f44473ae053d296f7c1c29d
+SHA256: 3600fad6b8eee0824f487e740a6a0cc52a19570fe1104785c96349b5d6ba5902
 Section: Tweaks
 Description: VPN Pro
 Author: KASAR
