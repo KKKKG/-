@@ -80,7 +80,7 @@ Maintainer: KASAR
 Installed-Size: 33618
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
-Size: 376176
+Size: 375530
 MD5sum: 6b0131cd7c032748b4f2ce5860502eae
 SHA1: c50fa6a17dd7b7a12b492313daa3ff4ec9ab1949
 SHA256: 4431620b8fda9a29593ad2184074ce0462f3b8d10bae471892c378bf924876db
@@ -89,5 +89,24 @@ Description: Showtouch
 Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
 Icon: https://i.pinimg.com/736x/d2/d4/21/d2d421ef1dbdab6df8f1431d96bdf939.jpg
+Name: Showtouch
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.snapper3
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.kasar.snapper3_1.0.2_iphoneos-arm64.deb
+Size: 911348
+MD5sum: b9634189381e073bb7a7a1d65570d24c
+SHA1: 72204a94e493fcf670c5c767337ded5d0474b142
+SHA256: 8c12f600bf1f741ab1e93222f03fd7afb4ba4c77b78d68b5549fb3154dcab8b2
+Section: Tweaks
+Description: Showtouch
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://media.havoc.app/6485a9c9e04866abb700c856?w=1080&q=75
 Name: Showtouch
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
