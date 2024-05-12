@@ -53,3 +53,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwksZd8AcJdl9M_oJ6q3Ae4kOJ-iaBsPRLCVnf_CcKfg&s
 Name: Windscribe Pro
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.picsart.studio
+Version: 24.8.3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 404
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/com.picsart.kasar_iphoneos-arm64.deb
+Size: 8944
+MD5sum: c93f2497dc830d81b311a8a3909d7960
+SHA1: 7d8313af5fdf9bf3d875c0a76e80848a98d28961
+SHA256: bebb1a0f5cc801a26f1301f65637e8ae012cbcd16d849cfb39f3ca91366f4ffd
+Section: Tweaks
+Description: Picsart Gold 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://play-lh.googleusercontent.com/1JMJ518jogwPeaD0pYn2mBu1cRLD0xRi45wNbtTIRvam1_xx-y3KJOjRAx-W9P4Lf0U
+Name: Picsart Gold
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
