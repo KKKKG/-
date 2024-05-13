@@ -148,3 +148,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://img.chariz.cloud/icon/jade/icon@3x.png
 Name: Jade 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.spotify
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: debs/com.kasar.spotify_iphoneos-arm64.deb
+Size: 31104
+MD5sum: b5819a475950f2fd81cd26df0e493bb9
+SHA1: f1077e697e41179771a9dcd834e533761118c8e0
+SHA256: 89b63c0a923931e787b7bc1bff50c7de01b664fbc6b62261087622fd2e504ea5
+Section: Tweaks
+Description: Spotify Premium++ 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://developer.spotify.com/images/guidelines/design/icon3@2x.png
+Name: Spotify++ 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
