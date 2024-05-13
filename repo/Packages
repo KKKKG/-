@@ -186,3 +186,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png
 Name: YTAdsDisablebg 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.voicechanger
+Version: 2.4-3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate
+Filename: debs/com.kasar.voicechanger_iphoneos-arm64.deb
+Size: 233612
+MD5sum: eb5a87d644b0d8b73b09e42d7732721c
+SHA1: 3c2fcc1e6c229ac08d9be16188966feecf559aa2
+SHA256: c4f778fc3e1e42c68cc8c1a05301b29bf3eed90c47c71be48506c7b86b1b1013
+Section: Tweaks
+Description: VoiceChanger XS Crack
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: no icon
+Name:  VoiceChanger XS 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
