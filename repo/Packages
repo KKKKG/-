@@ -167,3 +167,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://tweak-box.com/wp-content/uploads/2019/04/filza-1.png
 Name: Filza Crack 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.ytadsdisablebg
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate
+Filename: debs/com.kasar.ytadsdisablebg_iphoneos-arm64.deb
+Size: 4264
+MD5sum: 2d9b64639aed69d114c63fc65fca9ef2
+SHA1: 068a9ee4fe82eadb060d53bf0f9f3ec945605a95
+SHA256: 7812820684824b42a8fe85d298941cd3874bdb820768b67b06c7480d6c76956d
+Section: Tweaks
+Description: A simple tweak to disable youtube ads enable background playback and bring back the old quality selector
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png
+Name: YTAdsDisablebg 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
