@@ -203,5 +203,24 @@ Description: VoiceChanger XS Crack
 Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
 Icon: no icon
-Name:  VoiceChanger XS 
+Name: VoiceChanger XS 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.dockX
+Version: 2.5.5-1
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Filename: debs/com.kasar.dockX_iphoneos-arm64.deb
+Size: 296604
+MD5sum: 034523e7914aa5722d0584bd2bcffd9d
+SHA1: e94a98ab4bf6ac01dd5d0d97b9cc883c6975e90f
+SHA256: 6af3d1994ffa3b4353e1aa08e23350911b74a0ebec1c7edc46fb15d434db850d
+Section: Tweaks
+Description: DockX Keyboard 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
