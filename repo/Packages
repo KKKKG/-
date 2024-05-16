@@ -243,3 +243,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 Name: Alpine 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.iCleanerPro
+Version: 7.10
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/com.kasar. iCleanerPro_iphoneos-arm64.deb
+Size: 4836
+MD5sum: d98a46174dc4844bf16e56e72a5b4521
+SHA1: 82d1afb221ff5f1bfeef4152a24e7c26f5571c56
+SHA256: 55fe86d5b9c5a8161e16bfb5fc4638a0b26fb9bea099d2eb4895344fd7fca749
+Section: Tweaks
+Description: iCleaner Pro Cracked All Version 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://ib-soft.net/style/icons/iCleanerIcon.png
+Name: iCleanerPro Crack 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
