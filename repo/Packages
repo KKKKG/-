@@ -262,3 +262,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://ib-soft.net/style/icons/iCleanerIcon.png
 Name: iCleanerPro Crack 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.disablepastealert16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/com.kasar.disablepastealert_iphoneos-arm64.deb
+Size: 3996
+MD5sum: 2e17f97dc76f4de2dc6997a89962c082
+SHA1: a8a32ee4feaaac684977601a239840421cde78a7
+SHA256: 92788a7c58f1cc7b95cc7e629487f8120e45cb45909e0d98454a7bb439c80d44
+Section: Tweaks
+Description: DisablePastealert 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: 404
+Name: Disable Pastealert 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
