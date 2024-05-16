@@ -281,3 +281,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: 404
 Name: Disable Pastealert 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.storeswitchaccounts
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.kasar.storeswitchaccounts_iphoneos-arm64.deb
+Size: 102188
+MD5sum: 7c94eb19be9952448157b84bfc3a1d16
+SHA1: d0211b0faa19b71869ef0a2158fccaef8c0e1ff2
+SHA256: 86bae52a885a1d386fb0c9c782c05e67135149921e9c10ae7fc2b335eefed2db
+Section: Tweaks
+Description: Conveniently switch between logged-in accounts long press the desktop AppStore icon to switch 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: 404
+Name: AppStoreSwitchAccounts 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
