@@ -319,3 +319,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: 404
 Name: ShowTouch 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.contactsextended
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 14)
+Filename: debs/com.kasar.contactsextended_iphoneos-arm64.deb
+Size: 86412
+MD5sum: 0ca70162205620c92a54b95319c62dc7
+SHA1: 37c8db70950c9074d5e740cd5009f37d404ef3aa
+SHA256: eb61b5fc8696b5e2900002806d76d918cbda7374d452a872a9aee1e77f972995
+Section: Tweaks
+Description: Your contacts - with more options! 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.contactsextended.png
+Name: Contacts Extended 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
