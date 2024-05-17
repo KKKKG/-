@@ -92,23 +92,23 @@ Icon: https://media.havoc.app/6485a9c9e04866abb700c856?w=1080&q=75
 Name: Snapper3
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
 
-Package: com.bandarhl.bhtiktok
+Package: com.kasar.bhtiktok
 Version: 2.3
 Architecture: iphoneos-arm64
 Maintainer: KASAR
 Installed-Size: 33618
 Depends: mobilesubstrate
 Filename: debs/BHTikTokPlus.deb
-Size: 481828
-MD5sum: 8c2675f1284b0571e28a70d58ffebdc0
-SHA1: 483e5cffbd2a6dc99b140c4fb5bd9d645bae5d83
-SHA256: 1d264d2d1d88836fa5e1a6a9b49fe02249b13002632fc3963b43acdc178d497c
+Size: 482880
+MD5sum: 3dc3fb13d78d06e35b22ea12eaee3464
+SHA1: 8ed4d68e954c2e1295b6e1834f1c7741ded453c8
+SHA256: 01639513b0f2d6c09407659867519699caa741f80f10354933fc93d562d05856
 Section: Tweaks
 Description: BHTikTok Plus 
 Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
 Icon: https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/4a2a1776a08f761c6464f596c0c5e8e6.png
-Name: TikTok BH Plus 
+Name: BHTikTok Plus 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
 
 Package: com.kasar.jade
@@ -299,4 +299,23 @@ Author: KASAR
 Depiction: https://kkkkg.github.io/repo/
 Icon: 404
 Name: AppStoreSwitchAccounts 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.showtouch
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.showtouch_1.0.4-3_iphoneos-arm64.deb
+Size: 376020
+MD5sum: 6c9b1deabfd5aaae90ffe32a39c276f8
+SHA1: 3d54e0eb54790df2caa8590268b1ca3156c46768
+SHA256: 4bbbc28d233064b843f4278271949d1672f7cca8ec2e5323b993b81a4a03d2d2
+Section: Tweaks
+Description: Shows where you touch the screen 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: 404
+Name: ShowTouch 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
