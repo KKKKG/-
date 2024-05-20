@@ -207,16 +207,16 @@ Name: VoiceChanger XS
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
 
 Package: com.kasar.dockX
-Version: 2.5.5-1
+Version: 2.6.0
 Architecture: iphoneos-arm64
 Maintainer: KASAR
 Installed-Size: 33618
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Filename: debs/com.kasar.dockX_iphoneos-arm64.deb
-Size: 296604
-MD5sum: 034523e7914aa5722d0584bd2bcffd9d
-SHA1: e94a98ab4bf6ac01dd5d0d97b9cc883c6975e90f
-SHA256: 6af3d1994ffa3b4353e1aa08e23350911b74a0ebec1c7edc46fb15d434db850d
+Size: 305952
+MD5sum: ecb3144f2bc4c1fb7dfa6650f53739b5
+SHA1: ebd1227a1664ce985378a07315c71a5cf7122254
+SHA256: b0254a14bf16f1a42e932ee7667a50fe2b819825101b72751fe1a1340377b697
 Section: Tweaks
 Description: DockX Keyboard 
 Author: KASAR
