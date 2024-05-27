@@ -338,3 +338,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.contactsextended.png
 Name: Contacts Extended 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.barmoji
+Version: 3.3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate
+Filename: debs/com.kasar.barmoji_3.3_iphoneos-arm64.deb
+Size: 48356
+MD5sum: 79f53e2bc54b6f9ba184631911778718
+SHA1: 7463132fd294edf7dd1592f40db9be1a7a34e6b0
+SHA256: 54ca4e2d176a577da3eebd3a7ac766b3e965a0a8d7e9c5e30b5e875bc42e53b9
+Section: Tweaks
+Description: Keyboard Barmoji 
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/icon.png
+Name: Barmoji 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
