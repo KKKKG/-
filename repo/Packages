@@ -357,3 +357,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/icon.png
 Name: Barmoji 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.xinam1ne
+Version: 2.6-3
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: debs/com.kasar.xinam1ne_iphoneos-arm64.deb
+Size: 77440
+MD5sum: 343ceec11758654e38e83290227dbeb6
+SHA1: ef7fefe5789db79c884485a92a2e0d87c4e3bf8a
+SHA256: dfe0220bf335f745eabc817a9ef2eba4f635ba78de36a35e1f2428a47247a5d9
+Section: Tweaks
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza. 
+Author: Paisseon, Sudo, NoW4U2Kid
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://camo.githubusercontent.com/167147e24c4241cb98a56fd622f4df04231d98153dae55233cbdff0a06c2a423/68747470733a2f2f7265706f2e6b65796361702e6f6e652f69636f6e732f58696e616d316e652e706e67
+Name: Xinam1ne AIO 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
