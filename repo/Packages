@@ -376,3 +376,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://camo.githubusercontent.com/167147e24c4241cb98a56fd622f4df04231d98153dae55233cbdff0a06c2a423/68747470733a2f2f7265706f2e6b65796361702e6f6e652f69636f6e732f58696e616d316e652e706e67
 Name: Xinam1ne AIO 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.designer
+Version: 1.4.9
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 33618
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.kasar.designer_1.4.9_iphoneos-arm64.deb
+Size: 11747612
+MD5sum: b3e971579a04d9cb28a668c5f659fa9f
+SHA1: a1d62b55aaa4709eba224b95a998a0d6b1ed9a35
+SHA256: 7fb472dc46ca5bd1889df4ff33c0ee3e01e18ffb49064768fd1b283b5e471998
+Section: Tweaks
+Description: Design layouts for lockscreen and homescreen
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://kkkkg.github.io/repo/assets/images/designer.png
+Name: Designer 
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
