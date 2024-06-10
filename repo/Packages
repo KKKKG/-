@@ -395,3 +395,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://kkkkg.github.io/repo/assets/images/designer.png
 Name: Designer 
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.safarix
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 287
+Depends: mobilesubstrate
+Filename: debs/com.kasar.safarix_iphoneos-arm64.deb
+Size: 271820
+MD5sum: 6654309c7207ea45195b847d6096371e
+SHA1: b82a6ec3226fe19bdfe4df12c1ad03e5f8500478
+SHA256: e3f02381db9f64791aff4ddce415b3b76d7d15a01c93c770047baeb71f91ba12
+Section: Tweaks
+Description: SafariX Cracked
+Author: KASAR
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://kkkkg.github.io/repo/assets/images/com.kasar.safarix.png
+Name: SafariX
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
