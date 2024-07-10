@@ -414,3 +414,22 @@ Depiction: https://kkkkg.github.io/repo/
 Icon: https://kkkkg.github.io/repo/assets/images/com.kasar.safarix.png
 Name: SafariX
 Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
+
+Package: com.kasar.appdata
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: KASAR
+Installed-Size: 359
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.kasar.appdata_1.4.2_iphoneos-arm64.deb
+Size: 823496
+MD5sum: 64b619e31d54cf9f9548c6ea12d0740f
+SHA1: 0dc1ca1416160285927ff786d1b40de38c16028c
+SHA256: 709e83511187d9ec053d2272532bf495dc3cc1079e76cba44d74aff892be3182
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Depiction: https://kkkkg.github.io/repo/
+Icon: https://kkkkg.github.io/repo/assets/images/AppData.png
+Name: AppData
+Sileodepiction: https://kkkkg.io/repo/depictions/kasar.json
